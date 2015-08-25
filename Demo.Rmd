@@ -41,3 +41,5 @@ opts_chunk$set(
 ```
 
 Let's learn how git and github work with RStudio.
+
+It's really cool.
